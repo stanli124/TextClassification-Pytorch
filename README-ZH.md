@@ -229,5 +229,3 @@ RCNNVariant 的网络结构：
 11. [Recurrent Convolutional Neural Networks for Text Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745/9552)
 
 12. [airalcorn2's RCNN](https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier)
-
-    修改测试
