@@ -207,14 +207,27 @@ RCNNVariant 的网络结构：
 ## 引用
 
 1. [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)
+
 2. [Keras Example IMDB FastText](https://github.com/keras-team/keras/blob/master/examples/imdb_fasttext.py)
+
 3. [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
+
 4. [Keras Example IMDB CNN](https://github.com/keras-team/keras/blob/master/examples/imdb_cnn.py)
+
 5. [Recurrent Neural Network for Text Classification with Multi-Task Learning](https://www.ijcai.org/Proceedings/16/Papers/408.pdf)
+
 6. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)
+
 7. [Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](https://arxiv.org/pdf/1512.08756.pdf)
+
 8. [cbaziotis's Attention](https://gist.github.com/cbaziotis/6428df359af27d58078ca5ed9792bd6d)
+
 9. [Hierarchical Attention Networks for Document Classification](http://www.aclweb.org/anthology/N16-1174)
+
 10. [Richard's HAN](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/)
+
 11. [Recurrent Convolutional Neural Networks for Text Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745/9552)
+
 12. [airalcorn2's RCNN](https://github.com/airalcorn2/Recurrent-Convolutional-Neural-Network-Text-Classifier)
+
+    修改测试
